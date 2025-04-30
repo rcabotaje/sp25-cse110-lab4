@@ -35,4 +35,29 @@
 16.  in da repositoyr
 17.  The result will be each number in the array gets doubled and added into a new array, which then gets returned. I arrived at this conclusion by putting a for loop iterating through the newArr seeing the values and I saw that all the numbers were doubled of the ones entered into to function.
 18.  in da repository
-19.  
+19.  The output of my code was:
+    
+> 9:28:11 PM
+> 
+> 9:28:12 PM
+> 
+> 9:28:13 PM
+> 
+> 9:28:14 PM
+> 
+> 9:28:15 PM
+> 
+> 9:28:16 PM
+> 
+> 9:28:17 PM
+> 
+> 9:28:18 PM
+> 
+> 9:28:19 PM
+> 
+> 9:28:20 PM
+> 
+> 9:28:21 PM
+
+
+And it kept going until I hit Ctrl+C to end it.
