@@ -32,4 +32,7 @@
     5. true == 2 bc true maps to 1 and 1 doesnt equal 2
     6. true === Boolean(2) since Boolean(2) maps to true (since it thinks any number thats not 0 is true)
 15. == compares values after trying to convert them to common types, while === compares both values and types
-16.  
+16.  in da repositoyr
+17.  The result will be each number in the array gets doubled and added into a new array, which then gets returned. I arrived at this conclusion by putting a for loop iterating through the newArr seeing the values and I saw that all the numbers were doubled of the ones entered into to function.
+18.  in da repository
+19.  
